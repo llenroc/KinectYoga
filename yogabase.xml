@@ -1,0 +1,101 @@
+<YogaBase>
+  <!--<Yoga id="1" name="Virbhadrasan">
+		<Position name="Standing" id="1" score="10">
+			<Gesture>Standing</Gesture>	
+		</Position>
+		<Position name="N90R" id="2" score="30">
+			<Gesture>ElbowWristBelowHead</Gesture>
+      <Gesture>ElbowWristOnSameY</Gesture>
+			<Gesture>RightKneeRightToRightHip</Gesture>
+			<Gesture>RightKneeRightFootSameX</Gesture>
+			<Gesture>LeftKneeLeftToLeftHip</Gesture>
+      <Gesture>LeftFootLeftToLeftKnee</Gesture>
+			--><!--<Gesture>ElbowBelowHead</Gesture>--><!--
+		</Position>
+		<Position name="Standing" id="3" score="10">
+			<Gesture>Standing</Gesture>	
+		</Position>
+		<Position name="N90L" id="4" score="30">
+			<Gesture>ElbowWristBelowHead</Gesture>
+      <Gesture>ElbowWristOnSameY</Gesture>
+			<Gesture>LeftKneeLeftToLeftHip</Gesture>
+			<Gesture>LeftKneeLeftFootSameX</Gesture>
+			<Gesture>RightKneeRightToRightHip</Gesture>
+      <Gesture>RightFootRightToRightKnee</Gesture>
+			--><!--<Gesture>ElbowBelowHead</Gesture>-->
+    <!--
+		</Position>
+		<Position name="Standing" id="5" score="10">
+			<Gesture>Standing</Gesture>	
+		</Position>
+	</Yoga>
+  <Yoga id="2" name="Tadasan">
+		<Position name="Standing" id="1" score="10">
+			<Gesture>Standing</Gesture>	
+		</Position>
+		<Position name="Tadasan" id="2" score="30">
+			<Gesture>BothHandsClose</Gesture>
+			<Gesture>BothLegsClose</Gesture>
+			<Gesture>HeadHandLegOnSameX</Gesture>
+			<Gesture>HandAboveHead</Gesture>
+			<Gesture>ElbowBelowHead</Gesture>
+		</Position>
+		<Position name="Standing" id="3" score="10">
+			<Gesture>Standing</Gesture>	
+		</Position>
+		<Position name="Tadasan" id="4" score="30">
+			<Gesture>BothHandsClose</Gesture>
+			<Gesture>BothLegsClose</Gesture>
+			<Gesture>HeadHandLegOnSameX</Gesture>
+			<Gesture>HandAboveHead</Gesture>
+			<Gesture>ElbowBelowHead</Gesture>
+		</Position>
+		<Position name="Standing" id="5" score="10">
+			<Gesture>Standing</Gesture>	
+		</Position>
+	</Yoga>-->
+    <!--<Yoga id="3" name="Uttanasana">
+		<Position name="Standing" id="1" score="10">
+			<Gesture>Standing</Gesture>
+		</Position>
+		<Position name="LeftLegAhead" id="2" score="30">
+      <Gesture>RightSideToKinnect</Gesture>
+			<Gesture>LeftLegOnLeftOfHipCenter</Gesture>
+      <Gesture>HandAboveHead</Gesture>
+			<Gesture>RightLegOnRightOfHipCenter</Gesture>
+			<Gesture>BothHandsOnRightOfHead</Gesture>
+		</Position>
+		<Position name="Standing" id="3" score="10">
+			<Gesture>Standing</Gesture>
+		</Position>
+		<Position name="RightLegAhead" id="4" score="30">
+      <Gesture>LeftSideToKinnect</Gesture>
+			<Gesture>RightLegOnRightOfHipCenter</Gesture>
+      <Gesture>HandAboveHead</Gesture>
+			<Gesture>LeftLegOnLeftOfHipCenter</Gesture>
+			<Gesture>BothHandsOnLeftOfHead</Gesture>
+		</Position>
+		<Position name="Standing" id="5" score="10">
+			<Gesture>Standing</Gesture>
+		</Position>
+	</Yoga>-->
+  <Yoga id="1" name="WarmUp">
+    <Position name="Standing" id="1" score="10">
+      <Gesture>Standing</Gesture>
+    </Position>
+    <Position name="HandsHorizontal" id="2" score="30">
+      <Gesture>ElbowWristBelowHead</Gesture>
+      <Gesture>ElbowWristOnSameY</Gesture>
+    </Position>
+    <Position name="HandsInFront" id="3" score="10">
+      <Gesture>HandsInFront</Gesture>
+    </Position>
+    <Position name="HandsUp" id="4" score="30">
+      <Gesture>HandAboveHead</Gesture>
+      <Gesture>ElbowWristOnSameX</Gesture>
+    </Position>
+    <Position name="Standing" id="5" score="10">
+      <Gesture>Standing</Gesture>
+    </Position>
+  </Yoga>
+</YogaBase>
